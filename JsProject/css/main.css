@@ -1,0 +1,13 @@
+#userdataPopup{
+    width:300px;
+    float:left;
+    background: red;
+}
+#overlay{
+    background: green;
+    float:left;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
